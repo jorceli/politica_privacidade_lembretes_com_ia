@@ -1,0 +1,46 @@
+# Política de Privacidade - Lembretes com IA
+
+A sua privacidade é importante para nós. Esta Política de Privacidade explica como o aplicativo **Lembretes com IA** coleta, usa, armazena e protege suas informações.
+
+## 1. Visão Geral
+O **Lembretes com IA** é um aplicativo de gerenciamento de tarefas e finanças pessoais que utiliza Inteligência Artificial para facilitar a criação de lembretes e a organização do seu dia a dia. O aplicativo foi projetado para priorizar a privacidade, mantendo a maior parte dos dados armazenados localmente no seu dispositivo.
+
+## 2. Coleta e Uso de Dados
+
+### 2.1. Dados Fornecidos pelo Usuário
+- **Informações de Perfil:** Nome ou apelido (opcional) para personalização da interface.
+- **Conteúdo de Lembretes:** Títulos, descrições, datas e horários inseridos manualmente ou por voz.
+- **Chave de API:** Sua chave pessoal da API Google Gemini, armazenada de forma segura e criptografada no dispositivo, usada exclusivamente para comunicação direta com a IA.
+
+### 2.2. Permissões do Dispositivo
+O aplicativo solicita as seguintes permissões para funcionamento de recursos específicos:
+
+- **Câmera:** Utilizada apenas para capturar imagens de boletos ou documentos quando você solicita a análise de contas a pagar. As imagens são processadas e não são armazenadas permanentemente em nossos servidores.
+- **Microfone:** Utilizado para capturar comandos de voz para a criação rápida de lembretes ou interação com o chat. O áudio é enviado para processamento e transcrição.
+- **Galeria de Fotos / Armazenamento:** Acesso necessário caso você opte por selecionar uma imagem de boleto já existente no seu dispositivo.
+
+## 3. Serviços de Terceiros e Inteligência Artificial
+
+Este aplicativo utiliza a API do **Google Gemini** (Google AI) para fornecer funcionalidades inteligentes, como:
+- Interpretação de comandos de voz e texto.
+- Extração de dados de fotos de boletos.
+- Chat interativo para dúvidas sobre finanças e organização.
+
+**Atenção:** Ao utilizar os recursos de IA, os dados (texto, áudio ou imagem) são enviados diretamente do seu dispositivo para os servidores do Google para processamento. O aplicativo **Lembretes com IA** não atua como intermediário armazenando esses dados em servidores próprios.
+- Recomendamos revisar a [Política de Privacidade do Google](https://policies.google.com/privacy) para entender como eles tratam os dados processados por suas APIs.
+
+## 4. Armazenamento de Dados
+- **Armazenamento Local:** Todos os seus lembretes, configurações, histórico de chat e preferências são armazenados localmente no banco de dados do seu dispositivo (SQLite/LocalStorage).
+- **Sem Servidor Central:** Nós, desenvolvedores do aplicativo, não possuímos acesso aos seus lembretes ou dados pessoais, pois não mantemos um servidor central de banco de dados. Se você desinstalar o aplicativo ou limpar os dados, essas informações serão perdidas, a menos que você tenha feito backup (se disponível no sistema operacional).
+
+## 5. Segurança
+Implementamos medidas de segurança adequadas para proteger seus dados. A Chave de API é armazenada utilizando as práticas recomendadas de segurança do sistema operacional (Android Keystore / Capacitor Preferences).
+
+## 6. Privacidade de Crianças
+Este aplicativo não é direcionado a menores de 13 anos e não coletamos intencionalmente informações pessoais de crianças.
+
+## 7. Alterações nesta Política
+Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página regularmente para quaisquer alterações. As alterações entram em vigor imediatamente após serem publicadas.
+
+## 8. Contato
+Se você tiver dúvidas ou sugestões sobre nossa Política de Privacidade, entre em contato conosco através do canal de suporte na loja de aplicativos ou via GitHub.
