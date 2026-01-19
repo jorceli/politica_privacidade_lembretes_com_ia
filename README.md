@@ -1,0 +1,2 @@
+# politica_privacidade_lembretes_com_ia
+politica privacidade
