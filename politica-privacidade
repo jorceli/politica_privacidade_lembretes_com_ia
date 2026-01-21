@@ -1,4 +1,4 @@
-# Política de Privacidade - Lembretes com IA
+## Política de Privacidade - Lembretes com IA
 
 A sua privacidade é importante para nós. Esta Política de Privacidade explica como o aplicativo **Lembretes com IA** coleta, usa, armazena e protege suas informações.
 
@@ -18,6 +18,10 @@ O aplicativo solicita as seguintes permissões para funcionamento de recursos es
 - **Câmera:** Utilizada apenas para capturar imagens de boletos ou documentos quando você solicita a análise de contas a pagar. As imagens são processadas e não são armazenadas permanentemente em nossos servidores.
 - **Microfone:** Utilizado para capturar comandos de voz para a criação rápida de lembretes ou interação com o chat. O áudio é enviado para processamento e transcrição.
 - **Galeria de Fotos / Armazenamento:** Acesso necessário caso você opte por selecionar uma imagem de boleto já existente no seu dispositivo.
+
+### 2.3. Controle do Usuário
+- **Remoção da Chave API:** O usuário tem total controle para adicionar, atualizar ou remover sua Chave de API a qualquer momento através das Configurações do aplicativo. A remoção da chave desativa imediatamente todas as funcionalidades de IA.
+- **Envio de Dados Iniciado pelo Usuário:** Nenhum dado (imagem, texto ou áudio) é enviado para a IA sem uma ação explícita do usuário (ex: clicar no botão de enviar, tirar foto ou gravar áudio).
 
 ## 3. Serviços de Terceiros e Inteligência Artificial
 
